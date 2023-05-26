@@ -1,0 +1,12 @@
+{
+  "name": "task-1",
+  "version": "1.0.0",
+  "description": "creating a calculation application to calculate how far a car can travel using the car's feul eccomony and the size of the feul tank. ",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Estiaan Britz",
+  "license": "ISC"
+}
